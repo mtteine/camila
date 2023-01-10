@@ -2,9 +2,18 @@ body {
     background-color: brown;
 }
 
-body {
-    font: 1rem/1.5 var(--bs-font-sans-serif);
-  }
-  a {
-    color: var(--bs-blue);
-  }
+.paragrafo1{
+
+		color: #ff0000;
+
+	}
+	.paragrafo2{
+
+		color: #99ccff;
+
+	}
+	.paragrafo3{
+
+		color: #0bf526;
+
+	}
